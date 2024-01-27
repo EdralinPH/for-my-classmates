@@ -1,0 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background: linear-gradient(to left top, orange, lightBlue);
+}
