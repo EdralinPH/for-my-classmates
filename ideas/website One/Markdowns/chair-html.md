@@ -1,29 +1,35 @@
+```html 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document 2</title>
-    <link rel="stylesheet" href="chair.css" />
+    <title>Document 3</title>
 </head>
 <body>
 
     <div class="content">
-        <legend id="title"> Chair </legend>
+        <legend id="title"> Switch </legend>
+
         <br />
 
         <div class="chart">
             <a href="#html-content" id="html"> HTML </a>
-            <a href="#css-content" id="css">CSS</a>
+            <a href="#css-content" id="css"> CSS </a>
         </div>
+
+        <br />
+        <br />
+        <br />
+        <br />
         <br />
 
         <div id="html-content">
             <legend id="html-legend"> HTML </legend>
             <br />
-            <zero-md src="./Markdowns/chair-html.md" id="html-md"></zero-md>
+            <zero-md src="./Markdowns/switch-html.md" id="html-md"></zero-md>
             <br />
-            <p>all of these are just example and i have proof if you try to steal my ideas.</p>
+            <p>just think of any other idea except mine</p>
 
         </div>
 
@@ -36,15 +42,16 @@
         <div id="css-content">
             <legend id="css-legend"> CSS </legend>
             <br />
-            <zero-md src="./Markdowns/chair-css.md" id="css-md"></zero-md>
+            <zero-md src="./Markdowns/switch-css.md" id="css-md"></zero-md>
             <br />
-            <p>here some other example of my design that you can get somee ideas on. remember the message on html</p>
+            <p>be creative on this part my dear classmate</p>
+
         </div>
 
         <h2 id="copyright"> &copy; 2024 Jean Christopher Edralin </h2>
-
+        
     </div>
-    
     
 </body>
 </html>
+```

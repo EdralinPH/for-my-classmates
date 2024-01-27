@@ -1,0 +1,61 @@
+```css
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    color:black;
+    background:lightblue;
+}
+
+#title{
+    background:linear-gradient(to right top, lime 30%, violet);
+    background-clip: text;
+    color:transparent;
+    font-size:50px;
+    
+}
+
+.chart{
+    background: linear-gradient( to right, yellow, pink);
+    border-radius:25px;
+    padding:25px;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+#css{
+    background:black;
+    background-clip: text;
+    color:transparent;
+}
+
+#html{
+    background:black;
+    background-clip: text;
+    color:transparent;
+}
+
+#html-legend{
+    color:cyan;
+    font-size:35px;
+    border-radius:25px;
+    background:rgba(150,150,150,0.3);
+    padding:25px;
+}
+
+#css-legend{
+    color:lightcoral;
+    font-size: 35px;
+    background:rgba(150,150,150,0.3);
+    padding:25px;
+}
+
+#copyright{
+    background: rgba(185,185,185,0.3);
+    padding:15px;
+}
+```
